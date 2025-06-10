@@ -1,0 +1,3 @@
+POST /api/reservations — Create reservation
+GET /api/reservations/table/:tableId — List reservations by table
+POST /api/comments — Post a comment
