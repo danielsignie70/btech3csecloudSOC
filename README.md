@@ -1,3 +1,5 @@
-# btech3csecloudSOC
-SANDJONG SIGNIE DANIEL AUBIN FOR THE 2 SEMESTER FINAL EXAM BTECH3 CSE CLOUD AKWA 
-Instructor:Dr Tabueu FOTSO Laurent 
+# btech3cseKENNETH
+
+Service Oriented Computing 
+2nd Semester Exam 
+Dr Tabueue Laurent 
